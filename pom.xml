@@ -10,7 +10,7 @@
 
   <name>maven-project</name>
   
-  <url>http://www.example.com/maven-project/</url>
+  <url>http://www.example.com/maven-project</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
